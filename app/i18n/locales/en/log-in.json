@@ -1,0 +1,16 @@
+{
+  "title": "Log in to the FCAI platform",
+  "description": "Please enter your username and password to log in to the FCAI platform.",
+  "header": "Log in",
+  "username": "Username",
+  "password": "Password",
+  "SignIn": "Sign In",
+  "ReturnToMainPage": "Return to main page",
+
+  "InvalidCredentials": "Invalid username or password.",
+  "InvalidCredentialsDescription": "Please check your username and password and try again.",
+  "Error": "An error occurred while logging in",
+
+  "UnknownError": "Error occurred while logging in.",
+  "UnknownErrorDescription": "Please try again later."
+}

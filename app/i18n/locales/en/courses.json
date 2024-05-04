@@ -1,0 +1,16 @@
+{
+  "mainLayoutTitle": "Courses",
+  "mainLayoutDescription": "This is a list of courses that I have taken or am currently taking",
+
+  "title": "Available Courses",
+
+  "CourseName": "Name",
+  "CourseDepartment": "Department",
+  "CourseCode": "Code",
+  "CourseHours": "Hours",
+
+  "FilterDepartment": "Filter by Department",
+  "HasADoctor": "Has a Doctor",
+
+  "GetMoreCourses": "Get More Courses"
+}

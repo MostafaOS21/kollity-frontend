@@ -1,0 +1,16 @@
+{
+  "mainLayoutTitle": "صفحة الكورسات",
+  "mainLayoutDescription": "صفحة الكورسات",
+
+  "title": "الكورسات المتاحة",
+
+  "CourseName": "الاسم",
+  "CourseDepartment": "القسم",
+  "CourseCode": "الكود",
+  "CourseHours": "عدد الساعات",
+
+  "FilterDepartment": "فلترة حسب القسم",
+  "HasADoctor": "لديه دكتور",
+
+  "GetMoreCourses": "المزيد من الكورسات"
+}

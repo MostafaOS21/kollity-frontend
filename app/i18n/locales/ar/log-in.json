@@ -1,0 +1,20 @@
+{
+  "title": "تسجيل الدخول إلى المنصة",
+  "description": "من فضلك قم بتسجيل الدخول للوصول إلى المنصة",
+  "header": "تسجيل الدخول",
+  "username": "اسم المستخدم",
+  "password": "كلمة المرور",
+  "SignIn": "تسجيل الدخول",
+  "ReturnToMainPage": "العودة إلى الصفحة الرئيسية",
+
+  "InvalidCredentials": "اسم المستخدم أو كلمة المرور غير صحيحة",
+  "InvalidCredentialsDescription": "من فضلك تأكد من اسم المستخدم وكلمة المرور وحاول مرة أخرى",
+  "Error": "حدث خطأ ما أثناء تسجيل الدخول",
+  "ErrorDescription": "من فضلك حاول مرة أخرى لاحقاً",
+
+  "UnknownError": "حدث خطأ غير ما",
+  "UnknownErrorDescription": "من فضلك حاول مرة أخرى",
+
+  "Success": "تم تسجيل الدخول بنجاح",
+  "SuccessDescription": "مرحباً بك في المنصة"
+}
